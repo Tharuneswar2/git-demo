@@ -1,2 +1,2 @@
-Hello GIT
-This MOdification GIT 
+Hello Git 
+This MOdification Git Hub 
